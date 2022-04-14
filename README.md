@@ -1,9 +1,8 @@
 # Shiyan7
-实验7 Broadcast Receiver
-掌握Broadcast Receiver的使用
-接收全局和局部广播
-发送全局和局部广播
-Broadcast Receiver监测电量与充电状态
+掌握Broadcast Receiver的使用  
+接收全局和局部广播  
+发送全局和局部广播  
+Broadcast Receiver监测电量与充电状态 
 Broadcast Receiver判断并监测网络连接状态
 
 1.Broadcast Receiver监测充电状态的改变
