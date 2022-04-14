@@ -2,8 +2,8 @@
 掌握Broadcast Receiver的使用  
 接收全局和局部广播  
 发送全局和局部广播  
-Broadcast Receiver监测电量与充电状态 
-Broadcast Receiver判断并监测网络连接状态
+Broadcast Receiver监测电量与充电状态   
+Broadcast Receiver判断并监测网络连接状态  
 
 1.Broadcast Receiver监测充电状态的改变
 当你想通过改变后台更新操作的频率来减少对电池寿命的影响时，那么首先需要检查当前电量与充电状态。
